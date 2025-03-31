@@ -4,7 +4,7 @@
 
 ## 참고 링크
 ### 보면서 따라한 링크
-[초보자를 위한 git과 Github 시작하기]([https://www.heropy.dev/p/B74sNE](https://modulabs.co.kr/blog/git-and-github-for-beginners))
+[초보자를 위한 git과 Github 시작하기](https://modulabs.co.kr/blog/git-and-github-for-beginners)
 
 ### GitHub 연동하다가 막혔을 때, 구글링을 하면서 참고했던 링크
 - [Git 사용법 및 터미널 명령어 정리](https://velog.io/@grinding_hannah/Git-Git-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
